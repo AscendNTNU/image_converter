@@ -14,6 +14,8 @@ find_package(OpenCV REQUIRED COMPONENTS
     highgui
 )
 
+catkin_package()
+
 ###########
 ## Build ##
 ###########
